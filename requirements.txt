@@ -1,0 +1,8 @@
+numpy<2
+scipy
+numba
+scikit-learn
+surprise
+matplotlib
+pandas
+openai
